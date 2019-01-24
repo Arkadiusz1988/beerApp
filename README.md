@@ -1,5 +1,6 @@
 # beerApp
 App to rate your favourite beers
+
 Used Stack:
  - Java EE
  - Spring
