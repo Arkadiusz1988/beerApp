@@ -18,13 +18,15 @@ public class Beer {
     private String name;
 
 
-    @Column(length = 200)
+    @Column(length = 2000)
     private String description;
 
     public Beer(String name, String description) {
         this.name = name;
         this.description = description;
     }
+
+
 
     public Beer() {
     }
